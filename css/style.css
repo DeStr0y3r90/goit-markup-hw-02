@@ -19,12 +19,14 @@
 
 }
 .link-logo{
+   font-family: "Raleway", sans-serif;
    font-weight: bold;
    color: #2E2F42;
-   line-height: 21;
-   letter-spacing: 0.03;
-   font-size: 18;
-   height: auto;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: #4d5ae5;
 
 }
 
@@ -32,7 +34,7 @@
    line-height: 21;
    font-size: 18;
    text-align: left;
-   color: #4D5AE5;
+   color: #2e2f42;
    font-weight: bold;
    letter-spacing: 0.03;
    height: auto;
@@ -40,13 +42,13 @@
 }
 
 .navigation{
-   color: #2e2f42;
+   color: #404bbf;
    font-family: Roboto;
    font-size: 16px;
    font-style: normal;
    font-weight: 500;
    line-height: 24px;
-   letter-spacing: 0.32px;
+   letter-spacing: 0.02em;
    text-decoration: none;
    transition: color 0.2s;
    text-decoration: underline;
@@ -54,6 +56,7 @@
 
 .navigation:hover, 
 .navigation:focus{
+   color:  #404bbf;
    background-color: #404bbf;
    text-decoration: none;
 }
