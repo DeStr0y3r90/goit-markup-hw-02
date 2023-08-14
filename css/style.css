@@ -84,23 +84,31 @@ a{
 }
 
 
-
-.web-logo{
-   
-}
-
 .orders{
+   background-color: #4D5AE5;
    font-family: Roboto;
-   font-weight: medium;
+   font-weight: 500;
    font-size: 16px;
    line-height: 24px;
    letter-spacing: 0.04;
    text-align: center;
    cursor: pointer;
+   font-family: "Roboto", sans-serif;
+   letter-spacing: 0.04em;
+   color: #FFFFFF;
+}
+
+.orders:hover, 
+.orders:focus{
+   background-color: #404BBF;
 }
 
 .hero-div{
    background-color: #2E2F42;
+   font-size: 56px;
+   line-height: 1.07;
+   letter-spacing: 0.02em;
+   color: #FFFFFF;
 
 }
 
