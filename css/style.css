@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap');
+
+/* Header */
+
 .header-page{
    background-color: #E7E9FC;
 
@@ -148,4 +152,10 @@ a{
 
 .basement-text{
    color: #F4F4FD;
+}
+
+.main-block{
+   font-family: 'Roboto', sans-serif;
+   color: #434455;
+   background-color: #FFFFFF;
 }
