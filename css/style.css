@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.css');
 
 @import "nullstyle.css"
 
@@ -6,9 +7,7 @@
 
 .header-page{
    background-color: #E7E9FC;
-
 }
-
 
 .p-text{
    text-align: left;
@@ -34,7 +33,11 @@
    font-weight: bold;
    letter-spacing: 0.03;
    height: auto;
+}
 
+.link-logo:hover,
+.link-logo:focus{
+   color: #404bbf;
 }
 
 .web-logo:hover,
