@@ -7,12 +7,6 @@
 
 }
 
-.headtext{
-   font-family: Roboto;
-   font-weight: medium;
-   font-size: 20px;
-   letter-spacing: 0.02;
-}
 
 .p-text{
    text-align: left;
@@ -23,10 +17,10 @@
    font-weight: bold;
    color: #2E2F42;
    line-height: 1.17;
-   letter-spacing: 0.03em;
+   letter-spacing: 0.02em;
    font-size: 18px;
    text-transform: uppercase;
-   color: #4d5ae5;
+   color: #2e2f42;
 
 }
 
@@ -42,7 +36,7 @@
 }
 
 .navigation{
-   color: #404bbf;
+   color: #434455;
    font-family: Roboto;
    font-size: 16px;
    font-style: normal;
@@ -112,22 +106,51 @@ a{
 
 }
 
+/* Hero section */
+
 .hero-title{
    font-family: Roboto;
    font-weight: bold;
-   line-height: 60px;
-   letter-spacing: 0.03;
+   letter-spacing: 0.02em;
    text-align: center;
+   font-size: 56px;
+   line-height: 1.07;
 }
 
-.section-title{
+/* Section 2 */
+.second-section-title{
    font-family: Roboto;
    font-weight: 500;
    font-size: 36px;
    letter-spacing: 0.02em;
    line-height: 1.2;
    color: #2e2f42;
+   line-height: 1.2;
 }
+
+.third-section-title{
+   font-family: Roboto;
+   font-size: 36px;
+   line-height: 1.11;
+   letter-spacing: 0.02em;
+   text-transform: capitalize;
+   color:#2E2F42;
+}
+
+.team{
+   background-color: #FFFFFF;
+
+}
+
+.headtext{
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2E2F42;
+}
+
+
 
 .team-block{
    background-color: #F4F4FD;
@@ -142,6 +165,14 @@ a{
    background-color: #E5E5E5;
 }
 
+.fourth-section-title{
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   letter-spacing: 0.02em;
+   text-transform: capitalize;
+   color: #2E2F42;
+}
 .p-text{
    line-height: 1.5;
    letter-spacing: 0.02em;
