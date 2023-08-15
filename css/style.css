@@ -77,8 +77,11 @@ a{
 }
 
 .contacts{
-   letter-spacing: 0.02;
+   letter-spacing: 0.02em;
    list-style: none;
+   font-size: 16px;
+   line-height: 1.5;
+   color: #434455;
 }
 
 .contacts:hover, 
@@ -232,4 +235,8 @@ a{
    font-family: 'Roboto', sans-serif;
    color: #434455;
    background-color: #FFFFFF;
+}
+
+.footer-logo{
+   color: #4d5ae5;
 }
