@@ -7,6 +7,15 @@
 
 }
 
+.first-navigation{
+   color: #2E2F42;
+}
+
+.first-navigation:hover,
+.first-navigation:focus{
+   color: #404bbf;
+
+}
 
 .p-text{
    text-align: left;
@@ -17,10 +26,10 @@
    font-weight: bold;
    color: #2E2F42;
    line-height: 1.17;
-   letter-spacing: 0.02em;
+   letter-spacing: 0.03em;
    font-size: 18px;
    text-transform: uppercase;
-   color: #2e2f42;
+   color: #4d5ae5;
 
 }
 
