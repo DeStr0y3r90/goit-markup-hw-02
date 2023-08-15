@@ -37,6 +37,11 @@
 
 }
 
+.nav-list:hover,
+.nav-list:focus{
+   color: #404BBF;
+}
+
 .navigation{
    color: #2E2F42;
    font-family: Roboto;
