@@ -145,6 +145,7 @@ a{
    letter-spacing: 0.02em;
    text-transform: capitalize;
    color:#2E2F42;
+   text-align: center;
 }
 
 .team{
@@ -180,6 +181,7 @@ a{
    letter-spacing: 0.02em;
    text-transform: capitalize;
    color: #2E2F42;
+   text-align: center;
 }
 .p-text{
    line-height: 1.5;
