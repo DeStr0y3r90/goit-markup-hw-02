@@ -41,6 +41,10 @@
    color: #404BBF;
 }
 
+.menu-list{
+   list-style-type: none;
+}
+
 .navigation{
    color: #2E2F42;
    font-family: Roboto;
@@ -51,7 +55,9 @@
    letter-spacing: 0.02em;
    text-decoration: none;
    transition: color 0.2s;
-   text-decoration: underline;
+   text-decoration: none;
+   list-style-type: none;
+
 }
 
 .navigation:hover, 
