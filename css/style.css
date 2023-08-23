@@ -64,6 +64,11 @@
 .link-style:focus{
    color:  #404bbf;
 }
+
+.address-block{
+   list-style-type: none;
+}
+
 a{
    text-decoration: none;
    
@@ -173,7 +178,16 @@ a{
    color: #2e2f42;
 
 }
-.plan-block{
+
+.our-team-block{
+   list-style-type: none;
+}
+
+.our-plan-block{
+   list-style-type: none;
+}
+
+.goals-block{
    list-style-type: none;
 }
 
@@ -213,7 +227,7 @@ a{
 .basement-studio{
    font-weight: bold;
    line-height: 21;
-   letter-spacing: 0.03;
+   letter-spacing: 0.03em;
    font-size: 18;
    color: #F4F4FD;
 }
