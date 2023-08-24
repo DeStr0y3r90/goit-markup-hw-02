@@ -1,11 +1,16 @@
-.p-text{
+h1, h2, h3, h4, p {
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
-a{
-   text-decoration: none;  
+ul, ol {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
 }
 
 /* Body */
+
 
 .main-block{
    font-family: 'Roboto', sans-serif;
@@ -260,4 +265,8 @@ a{
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #434455;
+}
+
+a{
+   text-decoration: none;  
 }
